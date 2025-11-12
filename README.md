@@ -40,7 +40,7 @@ The system is designed with a modular architecture to ensure scalability and mai
 ## Key Challenges Faced and Solutions
 
 I have included the all the details and Issues faced mentioned in the below Google Sheets
-![Link](https://docs.google.com/spreadsheets/d/1QmmxJjxUrA-GdXvP05IlIY3GY5K0gCGOhNLbn4IZdtE/edit?usp=sharing)
+(https://docs.google.com/spreadsheets/d/1QmmxJjxUrA-GdXvP05IlIY3GY5K0gCGOhNLbn4IZdtE/edit?usp=sharing)
 ---
 
 ## Lessons Learned
