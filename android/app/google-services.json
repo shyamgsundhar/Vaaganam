@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103528733913",
+    "project_id": "vaaganam-7779b",
+    "storage_bucket": "vaaganam-7779b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103528733913:android:db4067a5b168631f5cf2c8",
+        "android_client_info": {
+          "package_name": "com.example.vaaganam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSyDjxzIyLhnujDYRIr8tWy9ODUa8FUww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
