@@ -10,7 +10,7 @@ Vaaganam is a comprehensive vehicle management and trip tracking system. The nam
 
 The system is designed with a modular architecture to ensure scalability and maintainability. Below is a high-level overview of the system design:
 
-![System Design](system_design.png)
+![System Design](system_design.jpg)
 
 ### Key Components:
 1. **Frontend**: Built using Flutter, providing a seamless cross-platform experience for Android, iOS, Web, and Desktop users.
